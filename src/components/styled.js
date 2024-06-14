@@ -3,6 +3,8 @@ import styled from "styled-components";
 export const PageContainer = styled.main`
   padding: 50px;
   width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
   min-height: 88vh;
 `;
 

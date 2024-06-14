@@ -8,6 +8,10 @@ export const Header = () => {
       text: "Início",
       href: "/",
     },
+    {
+      text: "Estatísticas",
+      href: "/stats",
+    },
   ];
 
   return (
